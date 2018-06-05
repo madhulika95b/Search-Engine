@@ -1,0 +1,22 @@
+Execute the ReadInputFiles.java
+ 
+Output:
+Started at 2017-04-07 17:10:57.442
+size of forward Index is 5368
+size of Inverted Index is 32842
+Completed at 2017-04-07 17:11:06.628 duration is around 9 seconds
+
+
+Testing
+Execute the InfoRetrivealTest.java class
+
+sample input:
+Enter your Source files Path to parse: ~\Desktop\InfoRetrval\InformationRetrevialEngine\IrsProject\src\ft911
+Parsing the new content
+Enter your word to search: append
+Output:
+The entered search after stemming is valid
+The document the word after stemming append is present in FT911-1 and freq. count is 1
+The document the word after stemming append is present in FT911-2 and freq. count is 2
+The document the word after stemming append is present in FT911-3 and freq. count is 2
+The document the word after stemming append is present in FT911-4 and freq. count is 2
